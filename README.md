@@ -25,8 +25,8 @@ Schuster is a multinational retail company dealing in sports goods and accessori
 - Finalizing the model 
 - Model Evaluation on Unseen Data
 - Obervations
--   Top 10 factors / important predictors
--   Business Recommendations
+- - Top 10 factors / important predictors
+- - Business Recommendations
 
 ## Details of files uploaded
 - E-Commerce-Retail-B2B-Case-Study.ipynb : The python file with codes, analysis, Model and Results along with comments
